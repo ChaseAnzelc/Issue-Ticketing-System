@@ -18,6 +18,14 @@ www.issueticketingsystem.com
 
 This was our team project that I went ahead and am now web hosting the web application. I made quite a few changes including creating a new database inside mochahost that is PostgreSQL.
 
+Was running like this...</br>
+[JSP and JAVA Web Application in Eclipse]<br/>
+[Tomcat Version 9 Server]<br/>
+[ElephantSQL PostgreSQL Database]<br/>
+[Bootstrap - Front-end framework]<br/>
+[TablePlus for Database View]<br/>
+[Bootstrap - Front-end framework]<br/>
+
 Now running like this...<br/><br/>
 [MochaHost Web Hosting]<br/>
 [PostgreSQL Database]<br/>
@@ -27,16 +35,13 @@ Now running like this...<br/><br/>
 [JDK Version jdk1.10.0.2]<br/>
 [Deployed WAR File from Eclipse]<br/>
 
-Was running like this...<br/><br/>
-[JSP and JAVA Web Application in Eclipse]<br/>
-[Tomcat Version 9 Server]<br/>
-[ElephantSQL PostgreSQL Database]<br/>
-[Bootstrap - Front-end framework]<br/>
-[TablePlus for Database View]<br/>
-[Bootstrap - Front-end framework]<br/>
-
-What I used...<br/>
-[JAVA][JSP][JAVASCRIPT][HTML][PostgreSQL][Bootstrap]<br/>
+The Stack...<br/><br/>
+Front-End:</br>
+[HTML][CSS][Javascript][Bootstrap]</br>
+Back-End:</br>
+[Java][JSP][Apache Tomcat Server]</br>
+Database:</br>
+[Cloud-PostgreSQL]</br>
 
 # Presentation
 
