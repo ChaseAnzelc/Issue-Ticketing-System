@@ -1,6 +1,6 @@
 # Issue Ticketing System
 Team Project Advanced Applications Programming - Easily Manage and Maintain Issues at your Company.
-
+ 
 Please...<br/>
 1. Sign Up on the website to access the Issue Ticketing System.<br/>
 [You will not have admin access unless I allow, email me at cjanzelc@gmail.com]<br/>
