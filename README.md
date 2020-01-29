@@ -37,7 +37,7 @@ Now running like this...<br/><br/>
 
 The Stack...<br/><br/>
 Front-End:</br>
-[HTML][CSS][Javascript][Bootstrap]</br>
+[HTML][CSS][Javascript][Bootstrap][jQuery]</br>
 Back-End:</br>
 [Java][JSP][Apache Tomcat Server]</br>
 Database:</br>
